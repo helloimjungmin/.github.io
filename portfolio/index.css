@@ -30,10 +30,6 @@ font-style: normal;
     font-style: normal;
 }
 
-/* 검은고딕 웹폰트 */
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans:400');
-@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans&display=swap&subset=korean');
-
 /* all , 공통 , a태그 */
 *{padding:0; margin:0; position:relative; font-family: 'Black Han Sans', sans-serif;}
 .main{background:url(img/bg/paper.jpg)}
